@@ -1,5 +1,5 @@
 # SoftwareTesting
-**SoftwareTesting_16110150_16110097**
+**SoftwareTesting_16110150_16110097_Website tự tạo khóa học (Youtube/MP4/Video Streaming + Quiz)**
 
 ## Mid-term project: Selenium Katalon for https://xlms.myworkspace.vn/portal/site/test-english
 File name:
