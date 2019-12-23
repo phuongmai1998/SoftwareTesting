@@ -3,12 +3,15 @@
 
 ## Mid-term project: Selenium Katalon for https://xlms.myworkspace.vn/portal/site/test-english
 File name:
-
-
+```
+SeleniumKatalon.pptx
+```
 Designed by software:
-
-
-Author: Nguyen Ngoc Phuong Mai, Do Quoc Hung
+```
+Microsoft PowerPoint 2016.
+Camtassia 9.
+```
+Author: Nguyen Ngoc Phuong Mai, Do Quoc Hung, Huynh Tran Thai Bao
 
 Contact information: nnphuongmai2015@gmail.com / 
 
