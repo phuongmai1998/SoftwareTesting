@@ -17,7 +17,7 @@ Author: Nguyen Ngoc Phuong Mai, Do Quoc Hung, Huynh Tran Thai Bao
 Contact information: nnphuongmai2015@gmail.com/ doquochung0091@gmail.com
 
 ## Final Project: Website tự tạo khóa học (Youtube/MP4/Video Streaming + Quiz)
-The system for test: https://cl.fsoft.com.vn/portal/site/test-xplayer
+The system for test: https://myworkspace.vn
 
 Ouput include:
 
