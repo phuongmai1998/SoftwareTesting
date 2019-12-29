@@ -20,7 +20,12 @@ Contact information: nnphuongmai2015@gmail.com/ doquochung0091@gmail.com
 The system for test: https://myworkspace.vn
 
 Ouput include:
-
+```
+MyWorkSpace_TestDesign+TestReport_v0.0.1.xlsx
+MyWorkSpace_TestCase_v0.0.1
+MyWorkSpace_BugList_v0.0.1
+MyWorkSpace_TestPlan_v0.0.1
+```
 
 Author: Nguyen Ngoc Phuong Mai, Do Quoc Hung
 
